@@ -6,7 +6,7 @@ Developer
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [官网](http://www.linxz.fun)
 * ✉️  You can contact me at [lxz@underfitting.com](mailto:lxz@underfitting.com)
-* 🚀  See my blog at [linxiaozhong.club](https://www.linxiaozhong.cn)
+* 🚀  See my blog at [linxiaozhong.cn](https://www.linxiaozhong.cn)
 * 🧠  I'm learning C & C++
 * ⚡  SIC PARVIS MAGNA
 
