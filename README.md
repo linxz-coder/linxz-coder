@@ -10,7 +10,7 @@ Developer
 * 🧠  I'm learning C & C++
 * ⚡  SIC PARVIS MAGNA
 
-<a href="https://www.twitter.com/lamhiuzhong" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/lamhiuzhong" target="_blank" rel="noreferrer" style="text-decoration: none;"><img
 src="https://img.shields.io/twitter/follow/lamhiuzhong?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a><a href="https://www.github.com/linxz-coder" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/linxz-coder?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917&cacheSeconds=36" /></a>
