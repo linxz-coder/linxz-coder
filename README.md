@@ -17,7 +17,6 @@ src="https://img.shields.io/github/followers/linxz-coder?logo=github&style=for-t
 
 ### Skills
 
-<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
   </a>
@@ -48,7 +47,6 @@ src="https://img.shields.io/github/followers/linxz-coder?logo=github&style=for-t
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="postgresql" />
 </a>
-</div>
 
 <!--
 **linxz-coder/linxz-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
